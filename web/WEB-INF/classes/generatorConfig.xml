@@ -38,7 +38,7 @@
                             enableDeleteByExample="false"
                             enableSelectByExample="false"
                             selectByExampleQueryId="false">
-            <generatedKey column="id" sqlStatement="Mysql"/>
+           <!-- <generatedKey column="id" sqlStatement="Mysql"/>-->
         </table>
     </context>
 </generatorConfiguration>
